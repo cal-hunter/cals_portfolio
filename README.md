@@ -6,7 +6,7 @@ Welcome to my data portfolio! I'm an aspiring data analyst with a passion for tu
 
 ## 📊 Featured Projects
 
-### [Mental-Health-SQL-Queries](https://github.com/cal-hunter/Mental-Health-SQL-Queries)
+### <u>[Mental-Health-SQL-Queries](https://github.com/cal-hunter/Mental-Health-SQL-Queries)</u>
 ### Tools: SQL
 
 ### Summary  
