@@ -7,7 +7,7 @@ Welcome to my data portfolio! I'm an aspiring data analyst with a passion for tu
 ## 📊 Featured Projects
 
 ### 🔹 [Mental-Health-SQL-Queries](https://github.com/cal-hunter/Mental-Health-SQL-Queries)
-###Tools:### SQL
+### Tools: SQL
 
 ### Summary  
 This project analyzes global anxiety and depression trends from 1990 to 2019, focusing on identifying treatment gaps across different countries. Using SQL, I extracted insights from multiple datasets, examining prevalence, treatment access, and disease burden to highlight critical areas for intervention.
