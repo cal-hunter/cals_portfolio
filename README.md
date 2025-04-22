@@ -6,13 +6,17 @@ Welcome to my data portfolio! I'm an aspiring data analyst with a passion for tu
 
 ## 📊 Featured Projects
 
-### 🔹 [Project Title Here](link-to-your-project-repo)
-**Tools:** SQL, Excel, Python (Pandas)  
-**Summary:** Briefly explain the goal of the project — e.g., _"Analyzed survey feedback from an Agile training course to uncover key participant concerns and areas of improvement."_  
-**Highlights:**
-- Used `GROUP BY` and aggregation to uncover monthly trends
-- Performed keyword clustering using TF-IDF + K-Means
-- Summarized qualitative data into key themes for business reporting
+### 🔹 [Mental-Health-SQL-Queries](https://github.com/cal-hunter/Mental-Health-SQL-Queries)
+**Tools:** SQL
+
+## Summary  
+This project analyzes global anxiety and depression trends from 1990 to 2019, focusing on identifying treatment gaps across different countries. Using SQL, I extracted insights from multiple datasets, examining prevalence, treatment access, and disease burden to highlight critical areas for intervention.
+
+## Highlights  
+- Used `GROUP BY` and aggregation to analyze mental health trends over time  
+- Enhanced queries with Common Table Expressions (CTEs) for better readability  
+- Calculated relative percentage changes to identify clinically significant trends  
+- Paired anxiety trends with treatment access to flag countries with severe gaps
 
 ---
 
